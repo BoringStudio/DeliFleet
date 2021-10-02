@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - ShipInterior
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: MapBackground
+    uniqueID: 465332697
+    locked: 0
+  - name: Ship
+    uniqueID: 2376824967
+    locked: 0
+  - name: MapForeground
+    uniqueID: 2616164889
     locked: 0
